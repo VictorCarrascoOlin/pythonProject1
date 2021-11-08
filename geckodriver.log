@@ -1,0 +1,62 @@
+1636053152080	geckodriver	INFO	Listening on 127.0.0.1:63784
+1636053155154	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "63785" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileVg708I"
+1636053155901	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\rust_mozprofileVg708I\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63785/devtools/browser/6c069959-999d-43a3-9858-f59d9cc7dd54
+1636053160189	Marionette	INFO	Listening on port 63791
+1636053160508	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://script.crazyegg.com/pages/scripts/0085/1990.js, line 1: Error: CE: multiple userscripts installed
+1636054152014	Marionette	INFO	Stopped listening on port 63791
+[Parent 19132, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+mp\\rust_mozprofilecVV3VX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52996/devtools/browser/51aa5040-8d64-4eca-80c2-c36d854e369f
+1636053950419	Marionette	INFO	Listening on port 53005
+1636053950730	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://script.crazyegg.com/pages/scripts/0085/1990.js, line 1: Error: CE: multiple userscripts installed
+1636054153076	Marionette	INFO	Stopped listening on port 53005
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+\Temp\\rust_mozprofilev1bPVh"
+1636053987252	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\rust_mozprofilev1bPVh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53197/devtools/browser/cf581330-7d99-4cb4-8f55-d8d26c4cfa1c
+1636053989918	Marionette	INFO	Listening on port 53209
+1636053989992	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://script.crazyegg.com/pages/scripts/0085/1990.js, line 1: Error: CE: multiple userscripts installed
+1636054155099	Marionette	INFO	Stopped listening on port 53209
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+\Temp\\rust_mozprofile6VeVaD"
+1636054133317	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\rust_mozprofile6VeVaD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53469/devtools/browser/22428323-b53e-4386-adba-b53aface4a2f
+1636054135754	Marionette	INFO	Listening on port 53481
+1636054135872	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636054139817	Marionette	INFO	Stopped listening on port 53481
+JavaScript error: https://script.crazyegg.com/pages/scripts/0085/1990.js, line 1: Error: CE: multiple userscripts installed
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: can't access property "provider", this.tablesData[table] is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-53DM3BZ, line 71: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-53DM3BZ, line 71: NS_ERROR_NOT_INITIALIZED: 
+[Parent 3972, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1636054187063	geckodriver	INFO	Listening on 127.0.0.1:53675
+1636054190128	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "53676" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileUQNbz3"
+1636054190508	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\rust_mozprofileUQNbz3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53676/devtools/browser/05bfcb9a-1140-4292-9802-4d0ffb54f55b
+1636054192907	Marionette	INFO	Listening on port 53687
+1636054193304	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://script.crazyegg.com/pages/scripts/0085/1990.js, line 1: Error: CE: multiple userscripts installed
+1636054196297	Marionette	INFO	Stopped listening on port 53687
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-53DM3BZ, line 71: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-53DM3BZ, line 71: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
